@@ -12,4 +12,6 @@ Add hyperlinks to access our LinkedIn, Instagram
 Get domain name sandiegocomputerscience.edu
 
 
+Members, events, how to join, "become part of the team"
+
 Any others..?
