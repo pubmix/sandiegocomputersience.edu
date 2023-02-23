@@ -3,6 +3,8 @@ Promotional website for San Diego Computer Science. An organization by students,
 
 To do list
 
+List members, photos, descriptions
+
 Add pictures and descriptions of events
 
 Add hyperlinks to access our LinkedIn, Instagram
