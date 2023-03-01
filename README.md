@@ -17,3 +17,5 @@ To do list
 (Not much u can do on this one..)
 
 - Members, events, how to join, "become part of the team" (I want to make a tab for people interested in joining, possibly a google form, with specific details, and a link to the discord)
+
+Slide show displaying past meeting events, and logo
